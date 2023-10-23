@@ -269,4 +269,8 @@ __blobstorage__/
 
 # Other
 .env
+.env.v*
 global.json
+log.txt
+client/dist/
+client/node_modules/
